@@ -1,0 +1,8 @@
+{
+  "name": "Note AI",
+  "description": "AI-powered dictation and note-taking. Record your voice, transcribe with Gemini, and instantly get clean, polished notes.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
