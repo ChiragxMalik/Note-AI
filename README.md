@@ -1,6 +1,7 @@
 # Note AI 
 
 **Note AI** turns your voice into polished, structured notes in the browser using AI-powered transcription and smart formatting.  
+It’s powered by **Gemini** and built with modern **Google AI tools**, making transcription and note-polishing seamless.  
 
 ---
 
